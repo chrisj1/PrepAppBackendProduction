@@ -1,4 +1,4 @@
 # Prep App IOS backend
 
-Written by Chris Jerrett'18
+Written by Chris Jerrett
 
